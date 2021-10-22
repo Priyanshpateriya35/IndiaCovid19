@@ -1,0 +1,63 @@
+.mainbody{
+  background-color: rgb(68, 66, 66);
+  padding: 20px;
+  text-align: center;
+  min-height: 100vh;
+  align-items: center;
+  overflow: hidden;
+}
+.card{
+  padding-right: 10px;
+  overflow:hidden;
+  margin: 2px;
+}
+h1{
+  font-size: 20px;
+}
+
+h1, p, h2{
+  color: #fff;
+}
+
+ul{
+  list-style-type: none;
+  display:flex;
+  flex-wrap: wrap;
+ padding-block-start: 40px;
+
+
+}
+.card__main{
+  height: 150px;
+  width: 400px;
+  margin: 25px;
+  align-items: center;
+  background-color: rgb(116, 116, 209);
+  overflow-y:hidden;
+  
+}
+
+.card__name{
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0px;
+  
+ 
+}
+
+.card__name span {
+  font-size: 15px;
+  padding:1px;
+
+}
+.card__total{
+  font-size: 20px;
+  font-weight:bold;
+ 
+ 
+}
+.card__small{
+  font-size: 40px;
+  font-weight:800;
+  
+}
