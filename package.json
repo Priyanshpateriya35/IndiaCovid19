@@ -1,7 +1,7 @@
 {
-  "homepage": "https://Priyanshpateriya35.github.io/Covid19India",
-  "name": "covid19tracker",
-  "version": "0.1.1",
+  "homepage": "https://Priyanshpateriya35.github.io/IndiaCovid19",
+  "name": "covid19",
+  "version": "0.1.5",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
